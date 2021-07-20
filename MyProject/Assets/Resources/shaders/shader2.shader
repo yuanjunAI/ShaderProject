@@ -1,4 +1,6 @@
-﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+﻿/*
+ 第一次自定义输入输出结构   
+*/
 
 Shader "Unlit/shader2"
 {
